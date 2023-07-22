@@ -18,6 +18,7 @@ export default defineComponent({
 header {
   background-color: #0d3b66;
   height: 100vh;
+  padding: 1rem;
   width: 100%;
 }
 @media only screen and (max-width: 768px) {
